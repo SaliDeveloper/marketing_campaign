@@ -71,7 +71,7 @@ To protect data privacy, techniques like Laplace and Gaussian noise were applied
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/customer-analytics-ml.git
+   git clone https://github.com/yourusername/marketing_campaign.git
    cd customer-analytics-ml
    ```
 
